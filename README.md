@@ -30,7 +30,7 @@ java -jar .\target\primeiro-projeto-springboot-0.0.1.jar
 ```java
 
 ```
-
+Spring Boot e baseado em anotetions 
 ```java
 
 ```
